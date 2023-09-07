@@ -1,0 +1,3 @@
+[submodule "whycon-ros"]
+	path = whycon-ros
+	url = https://github.com/jiriUlr/whycon-ros.git
