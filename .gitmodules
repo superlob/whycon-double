@@ -1,3 +1,7 @@
 [submodule "whycon-ros"]
 	path = whycon-ros
 	url = https://github.com/jiriUlr/whycon-ros.git
+[submodule "usb_cam"]
+	path = usb_cam
+	url = git@github.com:ros-drivers/usb_cam.git
+	branch = master
